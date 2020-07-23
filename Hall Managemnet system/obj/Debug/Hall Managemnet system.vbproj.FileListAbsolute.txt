@@ -1,0 +1,48 @@
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\Hall Managemnet system.dll.config
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\Hall Managemnet system.dll
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\Hall Managemnet system.pdb
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\Hall Managemnet system.xml
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\obj\Debug\Hall Managemnet system.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\obj\Debug\Hall_Managemnet_system.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\obj\Debug\Hall Managemnet system.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\obj\Debug\Hall Managemnet system.dll
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\obj\Debug\Hall Managemnet system.xml
+c:\users\user\documents\visual studio 2015\Projects\Hall Managemnet system\obj\Debug\Hall Managemnet system.pdb
+G:\Hall Managemnet system\bin\roslyn\csc.exe
+G:\Hall Managemnet system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Hall Managemnet system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Hall Managemnet system\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Hall Managemnet system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Hall Managemnet system\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Hall Managemnet system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Hall Managemnet system\bin\roslyn\System.Collections.Immutable.dll
+G:\Hall Managemnet system\bin\roslyn\System.Reflection.Metadata.dll
+G:\Hall Managemnet system\bin\roslyn\vbc.exe
+G:\Hall Managemnet system\bin\roslyn\VBCSCompiler.exe
+G:\Hall Managemnet system\bin\roslyn\VBCSCompiler.exe.config
+G:\Hall Managemnet system\bin\Hall Managemnet system.dll.config
+G:\Hall Managemnet system\bin\Hall Managemnet system.dll
+G:\Hall Managemnet system\bin\Hall Managemnet system.pdb
+G:\Hall Managemnet system\bin\Hall Managemnet system.xml
+G:\Hall Managemnet system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Hall Managemnet system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Hall Managemnet system\obj\Debug\Hall Managemnet system.vbprojResolveAssemblyReference.cache
+G:\Hall Managemnet system\obj\Debug\Hall_Managemnet_system.Resources.resources
+G:\Hall Managemnet system\obj\Debug\Hall Managemnet system.vbproj.GenerateResource.Cache
+G:\Hall Managemnet system\obj\Debug\Hall Managemnet system.dll
+G:\Hall Managemnet system\obj\Debug\Hall Managemnet system.xml
+G:\Hall Managemnet system\obj\Debug\Hall Managemnet system.pdb

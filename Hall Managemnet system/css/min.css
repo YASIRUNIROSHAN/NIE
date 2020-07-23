@@ -1,0 +1,30 @@
+﻿body {
+}
+.inner{
+    overflow:hidden;
+    margin-top:5px;
+   
+}
+.inner img{
+    transition:all 1.5s ease;
+    margin-top:5px;
+     
+     
+
+}
+
+.inner:hover img{
+    transform: scale(1.5);
+}
+.page-footer {
+  background-color: #222;
+  color: #ccc;
+  padding: 5px 0 30px;
+  margin-top:5px;
+  
+}
+
+.footer-copyright {
+  color: #666;
+  padding: 00px 0;
+}
