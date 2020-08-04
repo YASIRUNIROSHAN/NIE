@@ -90,7 +90,7 @@
         <br />
         <div class="container">
             <div class="row">
-                <div class="col-lg-2 ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="img/nielogo.jpg" class="img-rounded" alt="Cinque Terre" width="160" height="165"/> </div>
+                <div class="col-lg-2 "><br /> <img src="img/nielogo.jpg" class="img-rounded" alt="Cinque Terre" width="160" height="165"/> </div>
                 <br />  
                 <br />
                     <div class="col-lg-8 justify-content-left" style="padding-left:0px;">

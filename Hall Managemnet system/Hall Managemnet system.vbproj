@@ -108,7 +108,9 @@
     <Content Include="img\slider2.jpg" />
     <Content Include="img\slider3.jpg" />
     <Content Include="Index.aspx" />
+    <Content Include="LoginPageAdmin.aspx" />
     <Content Include="Payementform.aspx" />
+    <Content Include="RegistrationformForAdmin.aspx" />
     <Content Include="updatetransaction2Admin.aspx" />
     <Content Include="Updatetransaction1Admin.aspx" />
     <Content Include="Web.config" />
@@ -177,6 +179,13 @@
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="LoginPageAdmin.aspx.designer.vb">
+      <DependentUpon>LoginPageAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPageAdmin.aspx.vb">
+      <DependentUpon>LoginPageAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -201,6 +210,13 @@
     </Compile>
     <Compile Include="Payementform.aspx.vb">
       <DependentUpon>Payementform.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="RegistrationformForAdmin.aspx.designer.vb">
+      <DependentUpon>RegistrationformForAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationformForAdmin.aspx.vb">
+      <DependentUpon>RegistrationformForAdmin.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="updatetransaction2Admin.aspx.designer.vb">

@@ -33,9 +33,9 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.AddBookingAdmin._Label9">
+<member name="F:Hall_Managemnet_system.AddBookingAdmin._Label2">
 <summary>
-Label9 control.
+Label2 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -141,18 +141,18 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.AddBookingAdmin._Button1">
+<member name="F:Hall_Managemnet_system.AddBookingAdmin._Button3">
 <summary>
-Button1 control.
+Button3 control.
 </summary>
 <remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.AddBookingAdmin._Button2">
+<member name="F:Hall_Managemnet_system.AddBookingAdmin._Button4">
 <summary>
-Button2 control.
+Button4 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -276,9 +276,9 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.bookingRegistration._Label2">
+<member name="F:Hall_Managemnet_system.bookingRegistration._Label9">
 <summary>
-Label2 control.
+Label9 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -294,9 +294,9 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.bookingRegistration._Label3">
+<member name="F:Hall_Managemnet_system.bookingRegistration._Label10">
 <summary>
-Label3 control.
+Label10 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -312,9 +312,9 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.bookingRegistration._Label4">
+<member name="F:Hall_Managemnet_system.bookingRegistration._Label11">
 <summary>
-Label4 control.
+Label11 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -330,9 +330,9 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.bookingRegistration._Label5">
+<member name="F:Hall_Managemnet_system.bookingRegistration._Label12">
 <summary>
-Label5 control.
+Label12 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -348,9 +348,9 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.bookingRegistration._Label6">
+<member name="F:Hall_Managemnet_system.bookingRegistration._Label13">
 <summary>
-Label6 control.
+Label13 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -366,9 +366,9 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.bookingRegistration._Label7">
+<member name="F:Hall_Managemnet_system.bookingRegistration._Label14">
 <summary>
-Label7 control.
+Label14 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -402,18 +402,18 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.bookingRegistration._Button3">
+<member name="F:Hall_Managemnet_system.bookingRegistration._Button4">
 <summary>
-Button3 control.
+Button4 control.
 </summary>
 <remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Hall_Managemnet_system.bookingRegistration._Button2">
+<member name="F:Hall_Managemnet_system.bookingRegistration._Button5">
 <summary>
-Button2 control.
+Button5 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -780,6 +780,87 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:Hall_Managemnet_system.LoginPageAdmin._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.LoginPageAdmin._Label5">
+<summary>
+Label5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.LoginPageAdmin._Label7">
+<summary>
+Label7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.LoginPageAdmin._Label8">
+<summary>
+Label8 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.LoginPageAdmin._TextBox1">
+<summary>
+TextBox1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.LoginPageAdmin._Label9">
+<summary>
+Label9 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.LoginPageAdmin._TextBox2">
+<summary>
+TextBox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.LoginPageAdmin._Label10">
+<summary>
+Label10 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.LoginPageAdmin._Label11">
+<summary>
+Label11 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="T:Hall_Managemnet_system.My.MyWebExtension">
  <summary>
  Module used to define the properties that are available in the My Namespace for Web projects.
@@ -913,6 +994,159 @@ To modify move field declaration from designer file to code-behind file.
 <member name="F:Hall_Managemnet_system.Payementform._Button1">
 <summary>
 Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._Label5">
+<summary>
+Label5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._Label7">
+<summary>
+Label7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._Label8">
+<summary>
+Label8 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._TextBox1">
+<summary>
+TextBox1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._Label9">
+<summary>
+Label9 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._TextBox2">
+<summary>
+TextBox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._Label10">
+<summary>
+Label10 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._TextBox3">
+<summary>
+TextBox3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._Label11">
+<summary>
+Label11 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._TextBox4">
+<summary>
+TextBox4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._Label12">
+<summary>
+Label12 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._TextBox5">
+<summary>
+TextBox5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._Label13">
+<summary>
+Label13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._TextBox6">
+<summary>
+TextBox6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hall_Managemnet_system.RegistrationformForAdmin._Button2">
+<summary>
+Button2 control.
 </summary>
 <remarks>
 Auto-generated field.

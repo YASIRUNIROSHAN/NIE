@@ -18,18 +18,29 @@
            
         }
      
-        .auto-style1 {
-            width: 55px
-        }
-        .auto-style2 {
-            width: 748px;
-        }
         .auto-style24 {
             font-style: italic;
         }
      
         .newStyle4 {
             font-style: italic;
+        }
+     
+        .auto-style25 {
+            width: 100%;
+        }
+        .auto-style26 {
+            width: 214px;
+        }
+     
+        .auto-style27 {
+            width: 91px;
+        }
+        .auto-style28 {
+            width: 71px;
+        }
+        .auto-style29 {
+            width: 46px;
         }
      
     </style>
@@ -41,7 +52,7 @@
     <div class="container">
        
     <div class="row">
-        <div class="col-lg-2 ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="img/nielogo.jpg" class="img-rounded" alt="Cinque Terre" width="160" height="165"/> </div>
+        <div class="col-lg-2 "><br /> <img src="img/nielogo.jpg" class="img-rounded" alt="Cinque Terre" width="160" height="165"/> </div>
         <br />  
         <br />
         <div class="col-lg-8 justify-content-left" style="padding-left:0px;">
@@ -85,43 +96,74 @@
            <div class="icon">                   
              
                <br />
+               <table class="auto-style25">
+                   <tr>
+                       <td class="auto-style26">
+                           <asp:Label ID="Label9" runat="server" Text="Name"></asp:Label>
+                       </td>
+                       <td>
+                           <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                           <br />
+                           <br />
+                       </td>
+                   </tr>
+                   <tr>
+                       <td class="auto-style26">
+                           <asp:Label ID="Label10" runat="server" Text="Phone Number"></asp:Label>
+                       </td>
+                       <td>
+                           <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+                           <br />
+                           <br />
+                       </td>
+                   </tr>
+                   <tr>
+                       <td class="auto-style26">
+                           <asp:Label ID="Label11" runat="server" Text="Address"></asp:Label>
+                       </td>
+                       <td>
+                           <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+                           <br />
+                           <br />
+                       </td>
+                   </tr>
+                   <tr>
+                       <td class="auto-style26">
+                           <asp:Label ID="Label12" runat="server" Text="Email"></asp:Label>
+                       </td>
+                       <td>
+                           <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
+                           <br />
+                           <br />
+                       </td>
+                   </tr>
+                   <tr>
+                       <td class="auto-style26">
+                           <asp:Label ID="Label13" runat="server" Text="Nic"></asp:Label>
+                       </td>
+                       <td>
+                           <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
+                           <br />
+                           <br />
+                       </td>
+                   </tr>
+                   <tr>
+                       <td class="auto-style26">
+                           <asp:Label ID="Label14" runat="server" Text="Organization"></asp:Label>
+                       </td>
+                       <td>
+                           <asp:DropDownList ID="DropDownList1" runat="server" Height="33px" Width="184px">
+                               <asp:ListItem>NIE</asp:ListItem>
+                               <asp:ListItem>Miniostry</asp:ListItem>
+                               <asp:ListItem>Other</asp:ListItem>
+                               <asp:ListItem></asp:ListItem>
+                           </asp:DropDownList>
+                           <br />
+                       </td>
+                   </tr>
+               </table>
                <br />
-               <asp:Label ID="Label2" runat="server" Text="Name"></asp:Label>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-               <asp:TextBox ID="TextBox1" runat="server" Width="243px" Height="28px"></asp:TextBox>
-&nbsp;&nbsp;&nbsp;&nbsp;
-               <br />
-              
-               <asp:Label ID="Label3" runat="server" Text="Phone Number"></asp:Label>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-               <asp:TextBox ID="TextBox2" runat="server" Width="243px" Height="28px"></asp:TextBox>
-               <br />
-               <br />
-               <asp:Label ID="Label4" runat="server" Text="Address"></asp:Label>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-               <asp:TextBox ID="TextBox3" runat="server" Width="243px" Height="28px"></asp:TextBox>
-               <br />
-               <br />
-               <asp:Label ID="Label5" runat="server" Text="Email"></asp:Label>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
-               <asp:TextBox ID="TextBox4" runat="server" Width="243px" Height="28px"></asp:TextBox>
-               <br />
-               <br />
-               <asp:Label ID="Label6" runat="server" Text="NIC"></asp:Label>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-               <asp:TextBox ID="TextBox5" runat="server" Width="243px" Height="28px"></asp:TextBox>
-               <br />
-               <br />
-               <asp:Label ID="Label7" runat="server" Text="Organization"></asp:Label>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-               <asp:DropDownList ID="DropDownList1" runat="server" Height="28px" Width="243px">
-                   <asp:ListItem>NIE</asp:ListItem>
-                   <asp:ListItem>Ministry</asp:ListItem>
-                   <asp:ListItem>Other</asp:ListItem>
-               </asp:DropDownList>
-               <br />
-               <br />
-               <br />
+             <br />
                <asp:Label ID="Label8" runat="server" Text="Terms and Conditions :"></asp:Label>
                <ul>
                     <li class="auto-style24">Charging for lecture halls / auditorium / computer labs is for an 8 hours period, which is considered an 8 hour period from 4.30 AM to 4.30 PM.</li>
@@ -132,27 +174,20 @@
                 &nbsp;<asp:CheckBox ID="CheckBox2" runat="server" Text="    I have read &amp; agree to the terms &amp; conditions." />
                <br />
                <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<table class="nav-justified">
+              
+               <table class="auto-style25">
                    <tr>
-                       <td>&nbsp;</td>
-                       <td>&nbsp;</td>
-                       <td class="auto-style2"><asp:Button ID="Button3" runat="server" Text="Button" Height="35px" Width="105px" />
-                           <asp:Button ID="Button2" runat="server" CssClass="col-xs-offset-0" Text="Cancel" Width="107px" Height="35px" />
+                       <td class="auto-style27">&nbsp;</td>
+                       <td class="auto-style29">&nbsp;</td>
+                       <td class="auto-style28">
+                           <asp:Button ID="Button4" runat="server" Height="40px" Text="Submit" Width="160px" />
                        </td>
-                       <td class="auto-style1">
-                           &nbsp;</td>
                        <td>
-                           &nbsp;</td>
-                   </tr>
-                   <tr>
-                       <td>&nbsp;</td>
-                       <td>&nbsp;</td>
-                       <td class="auto-style2">&nbsp;</td>
-                       <td class="auto-style1">&nbsp;</td>
-                       <td>&nbsp;</td>
+                           <asp:Button ID="Button5" runat="server" Height="40px" Text="Cancel" Width="160px" />
+                       </td>
                    </tr>
                </table>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              
                <br />
                <br />
                   
